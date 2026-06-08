@@ -1,9 +1,9 @@
 {
   "df": "df-heylou-mistral-extension",
-  "ts": "2026-06-06T21:13:11.382315+00:00",
+  "ts": "2026-06-07T16:19:28.515562+00:00",
   "ok": true,
-  "bytes": 4105,
+  "bytes": 4204,
   "model": "kemmer-70b-ctx8k",
   "mode": "produce",
-  "duration_s": 368.7
+  "duration_s": 147.7
 }
