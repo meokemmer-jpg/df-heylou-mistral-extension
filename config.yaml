@@ -148,3 +148,8 @@ cascade_invariants:
   monoton: "Operations idempotent, kein State-Aufbau cross-call"
   persistent: "JSONL Audit-Log per function-call + LoopReport-JSON"
   bounded: "per-operation timeout 30s, max 30 Tool-Uses pro Run"
+K13_external_anchor_type: verified_web_sources
+K13_external_anchor_validation_frequency: per_anchor_run
+K13_external_anchor_count: 1
+K13_external_anchor_evidence: https://www.gastgewerbe-magazin.de/hotellerie-kennzahlen-2024-2025
+K13_anchored_ts: 2026-06-23T10:00:21.201614+00:00
