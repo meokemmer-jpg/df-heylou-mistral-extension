@@ -1,9 +1,9 @@
 {
   "df": "df-heylou-mistral-extension",
-  "ts": "2026-07-14T03:00:32.523754+00:00",
+  "ts": "2026-07-15T03:00:57.868897+00:00",
   "maturity": "TESTED",
   "maturity_level": 4,
   "evidence_grade": 4,
-  "wargame_verdict": "CONDITIONAL",
+  "wargame_verdict": null,
   "crux": "[CRUX-MK]"
 }
