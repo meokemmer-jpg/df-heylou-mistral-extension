@@ -1,0 +1,5 @@
+{
+  "verdict": "HOLLOW",
+  "reason": "Der Test prueft nur Orchestrator-Konstanten, Phasen und die selbst berichtete Anzahl 5, aber nicht die tatsaechlichen Mistral-Function-Declarations mit den fuenf Pflicht-Capabilities oder einen Gegenfall bei fehlerhaften/fehlenden Schemas.",
+  "ts": "2026-08-11T20:39:28.404532+00:00"
+}
