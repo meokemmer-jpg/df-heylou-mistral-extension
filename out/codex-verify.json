@@ -1,5 +1,6 @@
 {
-  "verdict": "HOLLOW",
-  "reason": "Der Test prueft nur Orchestrator-Konstanten, Phasen und die selbst berichtete Anzahl 5, aber nicht die tatsaechlichen Mistral-Function-Declarations mit den fuenf Pflicht-Capabilities oder einen Gegenfall bei fehlerhaften/fehlenden Schemas.",
-  "ts": "2026-08-11T20:39:28.404532+00:00"
+  "verdict": "HOLDS",
+  "reason": "Der Test nutzt echte Funktionen, validiert die fünf deklarierten Tools und zeigt mit einem adversarialen Request einen funktionalen Gegenfall, der keinen Tool-Call erzeugt.",
+  "ts": "2026-08-12T18:14:13.120241+00:00",
+  "attempts": 1
 }
